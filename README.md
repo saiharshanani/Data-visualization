@@ -6,4 +6,4 @@ The goal is to address several questions about the crimes that occur in the city
 We posed a few questions that we are interested in finding about the city of Minnesota from the crime-rate dataset. 
 
 #### Findings:
-The report for findings that we explored through tableau are mentioned in the report.pdf. Please refer to it
+The refer to the report.pdf and tableau worksheet for the findings that we explored through tableau.
